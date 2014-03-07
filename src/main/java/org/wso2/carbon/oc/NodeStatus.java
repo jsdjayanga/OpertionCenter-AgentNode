@@ -1,4 +1,4 @@
-package org.wso2.carbon.org.wso2.carbon.oc;
+package org.wso2.carbon.oc;
 
 
 public enum NodeStatus {
